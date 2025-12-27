@@ -1,7 +1,7 @@
-# 👋 Merhaba, ben M.Eren Kök
+# Hi, I'm M.Eren Kök 👋
 
-🎓 Bilgisayar Mühendisliği öğrencisiyim.  
-💻 Yazılım, algoritmalar ve sistem mantığı üzerine çalışıyorum. 
+🎓 Computer Engineering Student  
+💻 Interested in software development and algorithmic thinking  
 
 <!--
 **erenkok-eng/erenkok-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
