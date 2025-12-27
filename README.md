@@ -1,6 +1,7 @@
 # Hi, I'm M.Eren Kök 👋
 
 🎓 Computer Science Student 
+
 💻 Interested in software development and algorithmic thinking  
 
 <!--
