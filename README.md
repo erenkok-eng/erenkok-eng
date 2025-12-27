@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Muhammed Eren Kök
+# 👋 Merhaba, ben M.Eren Kök
 
 🎓 Bilgisayar Mühendisliği öğrencisiyim.  
 💻 Yazılım, algoritmalar ve sistem mantığı üzerine çalışıyorum. 
