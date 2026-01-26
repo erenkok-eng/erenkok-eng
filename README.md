@@ -1,10 +1,12 @@
 # Hi, I'm M.Eren Kök 👋
 
-🎓 Computer Science Student 
+🎓 Computer Science Student
 
-💻 Interested in software development and algorithmic thinking  
+💻 Interested in software development and algorithmic thinking
 
-<!--
+🛡️ Expanding my expertise in Computer & Network Security
+
+<!-- 
 **erenkok-eng/erenkok-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
